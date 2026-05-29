@@ -48,18 +48,6 @@ I'm a passionate developer with a diverse portfolio spanning **game development*
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlekseiSkr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiSkr&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
 ## 🎯 Quick Stats
 
 <div align="center">
@@ -81,7 +69,6 @@ I'm a passionate developer with a diverse portfolio spanning **game development*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alekseiskr)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlekseiSkr)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=black)](https://alekseiskr.github.io)
 
 </div>
 
