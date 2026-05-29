@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Aleksei!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Game+Developer;Python+%26+C%23+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%26+C%23+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,10 +10,10 @@
 
 I'm a passionate developer with a diverse portfolio spanning **game development**, **web applications**, **APIs**, and **data scraping**. I love building engaging experiences and solving complex problems with clean code.
 
-- 🎮 Game dev enthusiast (MonoGame, Phaser, MonoGame)
 - 💻 Full-stack developer (Python, C#, JavaScript, Java)
-- 🚀 Currently exploring scalable APIs and microservices
+- 🚀 Currently exploring scalable mass scrapers and microservices
 - 🌱 Forever learning and experimenting with new tech
+- 🎮 Game dev hobbyist (MonoGame, Phaser, MonoGame)
 
 ---
 
@@ -38,7 +38,7 @@ I'm a passionate developer with a diverse portfolio spanning **game development*
 
 | Project | Description | Languages |
 |:---:|:---|:---:|
-| **🎮 cs2-dotnet-game** | Rougelike RPG built with MonoGame for .NET | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![MonoGame](https://img.shields.io/badge/-MonoGame-000000?style=flat) |
+| **🎮 wizards with a gun** | Rougelike RPG built with MonoGame for .NET | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![MonoGame](https://img.shields.io/badge/-MonoGame-000000?style=flat) |
 | **🏎️ Formula-One-API-Dashboard** | F1 API consumer with interactive visualizations | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34C26?style=flat) |
 | **🛒 vegan-shop-api** | .NET e-commerce API | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) |
 | **🔄 auto-index** | Python web scraper for car listings | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
