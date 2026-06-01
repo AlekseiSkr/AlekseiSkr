@@ -45,7 +45,7 @@ I'm a passionate developer with a diverse portfolio spanning **game development*
 | **🏎️ Formula-One-API-Dashboard** | F1 API consumer with interactive visualizations | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34C26?style=flat) |
 | **🛒 vegan-shop-api** | .NET e-commerce API | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) |
 | **🔄 auto-index** | Python web scraper for car listings | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **🎯 phaser3-cookie-zx-game** | Retro-style game with Phaser 3 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **🔄 website-audit-system** | Audit of Estonian web market | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) |
 
 </div>
 
