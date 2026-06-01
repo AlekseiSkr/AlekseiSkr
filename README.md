@@ -8,12 +8,11 @@
 
 ## 🎯 About Me
 
-I'm a passionate developer with a diverse portfolio spanning **game development**, **web applications**, **APIs**, and **data scraping**. I love building engaging experiences and solving complex problems with clean code.
+I'm a passionate developer with a diverse portfolio spanning **game development**, **web applications**, **APIs**, and **data scraping**. I love building engaging experiences and solving complex business problems with clean code and creative approach.
 
 - 💻 Full-stack developer (Python, C#, JavaScript, Java)
-- 🚀 Currently exploring scalable mass scrapers and microservices
+- 🚀 Currently creating an AI charged mass website audit system (WIP): website-audit-estonia.vercel.app
 - 🌱 Forever learning and experimenting with new tech
-- 🎮 Game dev hobbyist (MonoGame, Phaser, MonoGame)
 
 ---
 
@@ -80,7 +79,7 @@ I'm a passionate developer with a diverse portfolio spanning **game development*
 
 <div align="center">
 
-### ✨ "Code is poetry, games are experiences, and learning is life." ✨
+### ✨ "When life gives you lemons, make lemonchello." ✨
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlekseiSkr.AlekseiSkr&title=Profile%20Views)](https://github.com/AlekseiSkr)
 
