@@ -11,7 +11,7 @@
 I'm a passionate developer with a diverse portfolio spanning **game development**, **web applications**, **APIs**, and **data scraping**. I love building engaging experiences and solving complex business problems with clean code and creative approach.
 
 - 💻 Full-stack developer (Python, C#, JavaScript, Java)
-- 🚀 Currently creating an AI charged mass website audit system (WIP): https://website-audit-estonia.vercel.app
+- 🚀 Currently creating a local LLM charged mass website audit system (WIP): https://website-audit-estonia.vercel.app
 - 🌱 Forever learning and experimenting with new tech
 
 ---
@@ -41,12 +41,11 @@ I'm a passionate developer with a diverse portfolio spanning **game development*
 
 | Project | Description | Languages |
 |:---:|:---|:---:|
-| **🎮 wizards with a gun** | Rougelike RPG built with MonoGame for .NET | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![MonoGame](https://img.shields.io/badge/-MonoGame-000000?style=flat) |
-| **🏎️ Formula-One-API-Dashboard** | F1 API consumer with interactive visualizations | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34C26?style=flat) |
+| **🔄 website-audit-system** | Audit of Estonian web market | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) |
 | **🛒 vegan-shop-api** | .NET e-commerce API | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) |
 | **🔄 auto-index** | Python web scraper for car listings | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **🔄 website-audit-system** | Audit of Estonian web market | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) |
-
+| **🎮 wizards with a gun** | Rougelike RPG built with MonoGame for .NET | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![MonoGame](https://img.shields.io/badge/-MonoGame-000000?style=flat) |
+| **🏎️ Formula-One-API-Dashboard** | F1 API consumer with interactive visualizations | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34C26?style=flat) |
 </div>
 
 ---
