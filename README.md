@@ -11,7 +11,7 @@
 I'm a passionate developer with a diverse portfolio spanning **game development**, **web applications**, **APIs**, and **data scraping**. I love building engaging experiences and solving complex business problems with clean code and creative approach.
 
 - 💻 Full-stack developer (Python, C#, JavaScript, Java)
-- 🚀 Last Project: SEEKU - Estonian digital market audit and ranking: httpras://seeku.ee
+- 🚀 Last Project: SEEKU - Estonian digital market audit leads ranking via local LLM: https://seeku.ee
 - 🌱 Forever learning and experimenting with new tech
 
 ---
