@@ -11,7 +11,7 @@
 I'm a passionate developer with a diverse portfolio spanning **game development**, **web applications**, **APIs**, and **data scraping**. I love building engaging experiences and solving complex business problems with clean code and creative approach.
 
 - 💻 Full-stack developer (Python, C#, JavaScript, Java)
-- 🚀 Currently creating a local LLM charged mass website audit system (WIP): https://website-audit-estonia.vercel.app
+- 🚀 Last Project: SEEKU - Estonian digital market audit and ranking: httpras://seeku.ee
 - 🌱 Forever learning and experimenting with new tech
 
 ---
