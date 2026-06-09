@@ -39,7 +39,7 @@ I'm a passionate developer with a diverse portfolio spanning **game development*
 
 | Project | Description | Languages |
 |:---:|:---|:---:|
-| **🔄 website-audit-system** | Audit of Estonian web market | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) |
+| **🔄 Seeku.ee** | Audit of Estonian web market | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) |
 | **🛒 vegan-shop-api** | .NET e-commerce API | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) |
 | **🔄 auto-index** | Python web scraper for car listings | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **🎮 wizards with a gun** | Rougelike RPG built with MonoGame for .NET | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![MonoGame](https://img.shields.io/badge/-MonoGame-000000?style=flat&logo=gamedev) |
