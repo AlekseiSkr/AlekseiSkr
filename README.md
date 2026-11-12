@@ -39,11 +39,11 @@ I'm a passionate developer with a diverse portfolio spanning **game development*
 
 | Project | Description | Languages |
 |:---:|:---|:---:|
-| **🔄 Seeku.ee** | Audit of Estonian web market | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) |
-| ![**🛒 ticket-tracker**](https://github.com/AlekseiSkr/ticket-tracker) | django Admin ticketing dashboard | ![Python](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) |
+| [**🔄 Seeku.ee**](https://seeku.ee) | Audit of Estonian web market | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) |
+| [**🛒 ticket-tracker**](https://github.com/AlekseiSkr/ticket-tracker) | django Admin ticketing dashboard | ![Python](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) |
 | **🏎️ auto-index** | Python web scraper for car listings | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **🎮 wizards with a gun** | Rougelike RPG built with MonoGame for .NET | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![MonoGame](https://img.shields.io/badge/-MonoGame-000000?style=flat&logo=gamedev) |
-| ![**🔄 StrandScribe**](https://strandscribe.com) | Martech utility for automated blogging | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) !![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=html5&logoColor=white) |
+| [**🔄 StrandScribe**](https://strandscribe.com) | Martech utility for automated blogging | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) !![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=html5&logoColor=white) |
 </div>
 
 ---
